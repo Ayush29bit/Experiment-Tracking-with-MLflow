@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 mlflow.set_tracking_uri("http://127.0.0.1:5000")
-mlflow.set_experiment("Wine_Quality_Classification")
+
 wine=load_wine()
 X=wine.data
 y=wine.target

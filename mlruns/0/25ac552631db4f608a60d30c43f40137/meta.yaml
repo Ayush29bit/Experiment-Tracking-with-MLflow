@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25ac552631db4f608a60d30c43f40137/artifacts
+end_time: 1761930670248
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25ac552631db4f608a60d30c43f40137
+run_name: chill-crab-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761930668077
+status: 4
+tags: []
+user_id: '91878'
