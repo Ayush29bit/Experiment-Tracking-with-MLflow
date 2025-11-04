@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/978045981603339582/ceb32e3a2b0f428b9cbed97de63a19bc/artifacts
+end_time: 1762285554430
+entry_point_name: ''
+experiment_id: '978045981603339582'
+lifecycle_stage: active
+run_id: ceb32e3a2b0f428b9cbed97de63a19bc
+run_name: luminous-wren-509
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762285536389
+status: 3
+tags: []
+user_id: '91878'
